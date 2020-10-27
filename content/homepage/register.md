@@ -4,4 +4,4 @@ weight: 9
 header_menu: true
 ---
 
-Registration will commence soon!
+**Register [here](https://www.yepdesk.com/tiq-2020)!**
